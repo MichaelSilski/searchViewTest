@@ -1,6 +1,8 @@
 package com.example.searchviewtest;
 
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
 import android.widget.ListView;
 import android.widget.SearchView;
 

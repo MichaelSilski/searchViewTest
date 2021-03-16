@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SearchView Test</string>
+    <string name="search_title">SearchViewTest</string>
 </resources>
